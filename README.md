@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abelink23, astrophysicist at Instituto de Astrofísica de Canarias, Spain
+- 👋 Hi, Abel de Burgos Sierra, astrophysicist at Instituto de Astrofísica de Canarias, Spain
 - 👀 I’m interested in astronomy, astrophotography, and outdoor activities such hiking, diving, or tennis.
 - 🌱 I’m currently finishing my PhD in Massive Star Evolution, in particular working in Blue Supergiants.
 - 💞️ I’m looking to create or collaborate on Python packages related to astrophysics. 
