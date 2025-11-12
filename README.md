@@ -1,8 +1,8 @@
-- 👋 Hi, Abel de Burgos Sierra, astrophysicist at Instituto de Astrofísica de Canarias, Spain
+- 👋 Hi, Abel de Burgos Sierra, postdoctoral fellow at the European Southern Observatory, Chile.
 - 👀 I’m interested in astronomy, astrophotography, and outdoor activities such hiking, diving, or tennis.
-- 🌱 I’m currently finishing my PhD in Massive Star Evolution, in particular working in Blue Supergiants.
-- 💞️ I’m looking to create or collaborate on Python packages related to astrophysics. 
-- 📫 You can reach me by email at abel.burgos(at)iac.es
+- 🌱 My research focuses on Massive Star evolution, in particular working in Blue Supergiants.
+- 💞️ I’m looking to create or collaborate on Python packages related to observational astronomy. 
+- 📫 You can reach me by email at adeburgo@eso.org
 - " Science is more than a body of knowledge, it's a way of thinking. - C.Sagan "
 
 <!---
